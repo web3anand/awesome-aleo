@@ -1,3 +1,4 @@
+welcome to aleo 
 <h1 align="center">awesome-aleo</h1>
 <h3 align="center">🏎️ A curated list of Aleo & Leo code and resources 🏎️</h3>
 
